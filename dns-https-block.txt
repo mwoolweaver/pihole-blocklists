@@ -9,7 +9,7 @@
 #===================================================================
 
 #Add Manually:
-||.nextdns.io^
+||nextdns.io^
 ||safedns.com^
 ||verisign.com^
 ||alternatedns.com^
